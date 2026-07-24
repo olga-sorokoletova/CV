@@ -2,8 +2,7 @@
 
 ## Updated CV / CV aggiornato:
 
-[Most recent CV PDF in English](/Olga_Sorokoletova_CV%20(en)%3A%20v27.09.24.pdf) (Machine Learning Engineer).
+[Most recent CV PDF in English](/Olga_Sorokoletova_CV_Researcher_v07.26.pdf) (Mechanistic Interpretability for AI Safety PhD Researcher).
 
-[CV aggiornato in PDF in Italiano](/Olga_Sorokoletova_CV%20(it)%3A%20v27.09.24.pdf) (Igegnere di Machine Learning).
 
 
